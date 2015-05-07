@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Password Protected Area"
+AuthUserFile redstoneufo.github.io/.htpasswd
+Require valid-user
